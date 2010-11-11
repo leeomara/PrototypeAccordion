@@ -1,4 +1,4 @@
-// accordion.js v2.0
+// accordion.js v2.1
 //
 // Copyright (c) 2007 stickmanlabs
 // Author: Kevin P Miller | http://www.stickmanlabs.com
